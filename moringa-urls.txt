@@ -3,5 +3,7 @@ https://docs.google.com/document/d/1kjsvrvD5IJGcdNZH-Sr9OuDam-iv5dN29BoSNHccSWo/
 
 command :git config --global http.sslVerify false
 
+git commit -m (commits all changes
+
 
 
