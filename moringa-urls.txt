@@ -1,0 +1,7 @@
+https://code.visualstudio.com/
+https://docs.google.com/document/d/1kjsvrvD5IJGcdNZH-Sr9OuDam-iv5dN29BoSNHccSWo/edit?usp=sh
+
+command :git config --global http.sslVerify false
+
+
+
