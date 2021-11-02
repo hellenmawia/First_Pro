@@ -3,7 +3,7 @@ https://docs.google.com/document/d/1kjsvrvD5IJGcdNZH-Sr9OuDam-iv5dN29BoSNHccSWo/
 
 command :git config --global http.sslVerify false
 
-git commit -m (commits all changes
+git commit -m (commit all changes
 
 Git Commands
 https://docs.google.com/document/d/1BjnkI2VktSGUMmSsflOpflwbF-CbjC2SwK4KyeE6C_s/edit?usp=sharing
@@ -14,6 +14,9 @@ https://github.com/Evans-Tinga?tab=repositories
 
 Day 1 Record
 https://drive.google.com/file/d/1_9wuCLbpBXXvYxfuT5Wooka5MDwha6pv/view?usp=sharing
+
+This file 
+contains urls
 
 
 
