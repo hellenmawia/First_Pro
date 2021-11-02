@@ -15,12 +15,9 @@ https://github.com/Evans-Tinga?tab=repositories
 Day 1 Record
 https://drive.google.com/file/d/1_9wuCLbpBXXvYxfuT5Wooka5MDwha6pv/view?usp=sharing
 
-<<<<<<< HEAD
-This file 
-contains urls
 
-=======
-Testing remote addition
->>>>>>> 7fc470f76c513ce5fdd4d46382511f598e0cceef
+
+https://www.w3schools.com/tags/default.asp
+
 
 
